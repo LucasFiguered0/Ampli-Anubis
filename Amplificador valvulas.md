@@ -16,5 +16,6 @@ Todos los triodos tienen un electrodo (cátodo) calentado por un filamento, que 
 
 (FOTO)
 
-Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (ENLACE).
-              ![https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png](https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png) ![https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png](https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png) ![https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png](https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png)
+Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador).
+
+![https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png](https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png) ![https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png](https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png) ![https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png](https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png)
