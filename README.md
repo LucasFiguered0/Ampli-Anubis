@@ -10,7 +10,7 @@ Así incentivemos a más gente a animarse a realizarlo.
  
  (FOTO)
 
-![ESQUEMA](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Layout_Reverb_and_Tremolo_Deleted_small.png)
+![ESQUEMA](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Layout_Reverb_and_Tremolo_Deleted_Plus_Mid.png)
 
 ##Teoría del proyecto##
 
