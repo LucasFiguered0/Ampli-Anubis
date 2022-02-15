@@ -78,3 +78,23 @@ La libreria "FastLed" es algo compleja cabe destacar ya que hace falta conocer m
 El enlace de la libreria por si alguien desea usarla: https://www.arduino.cc/reference/en/libraries/fastled/
 Información sobre sus comandos basicos: https://blog.claytonk.com/2019/10/16/working-with-fastled-library/
 
+## Electronica
+Para llevar acabo este proyecto en vez de una PCB tradicional, la cual cual genera ruidos, decidimos unas una eyelet board de fibra de vidrio. A la cual le hicimos los agujeros a disposicion de donde iban los componentes y les pusimos unos hojales los cuales con una punta y un martillo amarramos bien a esta. 
+
+(FOTO)
+
+En cuanto a conexiones nos basamos en estos esquemas de aqui abajo y solo le añadimos unos elemntos de protección para que no se dañara nada en caso de que llegara a haber un problema.Tambien se incluyo un pequeño circuito bias y tambien un voltimetro, el cual iria en el frontal y le daria un toque mas personalizado al amplificador.
+
+(Foto)
+
+El esquema se divide en tres partes que serian preamplificador, driver (phase inverter), y estapa de potencia.
+
+(FOTO), (FOTO), (FOTO)
+
+Para tomar valores y hacer pruebas hay que hacerlo con mucho cuidado y descargar la bateria de condensaores, ya que este amplificador trabaja con 420 V de tensión lo cual puede producir un gran problema,  en nuestro caso disponiamos de una herramienta artesanal creada por nuestro tutor del proyecto.
+
+(FOTO)
+
+# Anexos
+
+(FOTOS ESQUEMAS)
