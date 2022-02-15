@@ -57,3 +57,44 @@ link plano 3D: [https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador](https
 ![ESQUEMA](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Delete_Reverb_and_Tremolo_Schematic.jpg)
 
 ++info ✍ [ROBROBINETTE](https://robrobinette.com/AA1164_Princeton_Reverb_With_Reverb_and_Tremolo_Deleted.htm)
+
+## Nuestro Proyecto 🔊
+
+Nuestro proyecto comenzó con una investigación sobre los amplificadores de válvulas clásicos "Vintage", estos amplificadores son muy llamativos por su calidad de sonido que enriquece la reproducción sonora muy envolvente para el musico. 
+
+### Foto tomada en Fnac.
+
+![https://user-images.githubusercontent.com/97434114/151752429-2910a01a-1838-4cd1-9952-faed05b34def.jpg](https://user-images.githubusercontent.com/97434114/151752429-2910a01a-1838-4cd1-9952-faed05b34def.jpg)
+
+Para darnos una idea mejor del diseño de nuestro amplificador viajamos a tiendas de segunda mano para apreciar amplificadores clásicos de los 80 y 90, también fuimos a tiendas de música, tiendas electrónicas y de audio.  
+
+### Foto tomada en cash converters
+
+![https://user-images.githubusercontent.com/97434114/151752352-25fd4400-203b-4d21-85d4-d6a71060360f.jpg](https://user-images.githubusercontent.com/97434114/151752352-25fd4400-203b-4d21-85d4-d6a71060360f.jpg)
+
+![https://user-images.githubusercontent.com/97434114/151752460-01981207-d9f1-410a-a5b9-7995a5462df8.jpg](https://user-images.githubusercontent.com/97434114/151752460-01981207-d9f1-410a-a5b9-7995a5462df8.jpg)
+
+### Organización del proyecto✍
+
+En la organización del proyecto utilizamos la plataforma ODOO para completar diferentes tareas y dividirnos entre los tres el proyecto de una manera eficaz y sencilla.
+
+![https://user-images.githubusercontent.com/97434114/151527001-fc8945b7-f512-462d-80fd-d688ffcd8b98.png](https://user-images.githubusercontent.com/97434114/151527001-fc8945b7-f512-462d-80fd-d688ffcd8b98.png)
+
+![Organización del proyecto](https://user-images.githubusercontent.com/94827116/148751088-5ea63438-9a45-440b-b2eb-b94e0a878686.jpg)
+
+
+### ¡Nuestro gran comienzo!, tareas de ODOO: 
+
+## CHAPA DE ALUMINIO
+![https://user-images.githubusercontent.com/97434114/151521820-1c6503f6-99a8-4f59-befe-f708b0fc0ec0.jpg](https://user-images.githubusercontent.com/97434114/151521820-1c6503f6-99a8-4f59-befe-f708b0fc0ec0.jpg)
+
+## PLACA ARDUINO NANO
+![https://user-images.githubusercontent.com/97434114/151756444-c2a70eb8-b5c5-470f-b9ae-122b40d74fb1.jpg](https://user-images.githubusercontent.com/97434114/151756444-c2a70eb8-b5c5-470f-b9ae-122b40d74fb1.jpg)
+
+## PLACA EYELET BOARD
+![https://user-images.githubusercontent.com/97434114/151756464-a81d78c3-b0e2-42bf-bb82-e474a4d1c554.jpg](https://user-images.githubusercontent.com/97434114/151756464-a81d78c3-b0e2-42bf-bb82-e474a4d1c554.jpg)
+
+## VALVULAS DE VACIO
+![https://user-images.githubusercontent.com/97434114/151759928-6e1b019b-3270-45de-8747-34b44ef0f62a.jpg](https://user-images.githubusercontent.com/97434114/151759928-6e1b019b-3270-45de-8747-34b44ef0f62a.jpg)
+
+![https://user-images.githubusercontent.com/97434114/151759958-cc26b0ef-8a08-4175-b48d-4161f2d08039.jpg](https://user-images.githubusercontent.com/97434114/151759958-cc26b0ef-8a08-4175-b48d-4161f2d08039.jpg)
