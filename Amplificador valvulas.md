@@ -22,4 +22,7 @@ Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https:
 
 ## Historia del amplificador
 Lee De Forest inventó el triodo a principios del siglo XX, que estaba compuesto por una rejilla de platino, ánodo y cátodo. Todo esto estaba encerrado en una especie de bombilla parcialmente vacía.Gracias a este invento, Lee De Forest es considerado el padre de la electrónica. A partir de entonces nacieron las válvulas al vacío de triodo, que eran lo mismo básicamente, pero dentro de la bombilla no había nada de aire, ni mucho menos algún tipo de gas. Esto hacía que el filamento o cátodo no se quemara rápidamente.
-Esta creación permitía que con una tensión débil se creará mayor fuerza de corriente para los equipos de audio. Es así como los triodos al vacío comenzaron a usarse en amplificadores de alta calidad, gramófonos, televisores, etc. El triodo fue patentado por el mismo Lee en 1906
+Esta creación permitía que con una tensión débil se creará mayor fuerza de corriente para los equipos de audio. Es así como los triodos al vacío comenzaron a usarse en amplificadores de alta calidad, gramófonos, televisores, etc.
+El triodo fue patentado por el mismo Lee en 1906
+
+En caso de mayor documentacion sobre la historia visitar: https://unaguitarrafeliz.es/la-evolucion-del-amplificador-del-triodo-a-los-transistores/
