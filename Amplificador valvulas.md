@@ -15,3 +15,5 @@ Válvulas de vacío: Es un componente electrónico utilizado para amplificar, co
 Todos los triodos tienen un electrodo (cátodo) calentado por un filamento, que libera electrones, y un electrodo de placa de metal plana (ánodo) que los atrae, con una rejilla que consta de una pantalla de hilos que controlan la corriente.
 
 (FOTO)
+
+Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (ENLACE).
