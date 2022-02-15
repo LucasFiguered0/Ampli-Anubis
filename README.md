@@ -25,3 +25,35 @@ Procedimos a llevar a cabo un diseño 3D de la idea que teníamos pensada para e
 
 
 link plano 3D: [https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador](https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador)
+
+# ESQUEMA PROTEUS AMPLIFICADOR GENERAL
+### 
+
+![ESQUEMA](https://user-images.githubusercontent.com/94827116/148760314-5e709b58-4d87-4c5d-bd73-824e2a753edc.PNG)
+
+# ESQUEMA PROTEUS PREAMPLIFICADOR
+###
+
+![ESQUEMA](https://user-images.githubusercontent.com/94827116/148760330-5f96a4b3-1f69-48b1-b1c3-984206af6e5c.PNG)
+
+# ESQUEMA PROTEUS PHASE INVERTER
+###
+
+![ESQUEMA](https://user-images.githubusercontent.com/94827116/148762442-1e28f6e3-08f2-409c-9851-eca03de01f84.png)
+
+# ESQUEMA PROTEUS ETAPA DE POTENCIA
+###
+
+![ESQUEMA](https://user-images.githubusercontent.com/94827116/148760322-093d37e4-1794-4d4c-9fa8-3e0e24ca9a36.PNG)
+
+# ESQUEMA PROTEUS BIAS
+###
+
+![ESQUEMA](https://user-images.githubusercontent.com/94827116/148760328-eb93cc3c-85e0-4e67-acda-0a669d7af0b3.PNG)
+
+# ESQUEMA ORIGINAL PRINCETON AA1164D
+###
+
+![ESQUEMA](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Delete_Reverb_and_Tremolo_Schematic.jpg)
+
+++info ✍ [ROBROBINETTE](https://robrobinette.com/AA1164_Princeton_Reverb_With_Reverb_and_Tremolo_Deleted.htm)
