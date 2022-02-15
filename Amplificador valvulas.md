@@ -5,7 +5,7 @@ Nuestra idea era montar un amplificador de guitarra el cual funcionaba mediante 
 
 (FOTO)
 
-Con esa idea en mente decidimos documentarnos sobre proyectos parecidos y entonces dimos con una pagina web (enlace pagina), la cual nos suministro unos planos para el montaje de este.
+Con esa idea en mente decidimos documentarnos sobre proyectos parecidos y entonces dimos con una pagina web (enlace pagina), la cual nos suministro unos planos para el montaje de este. Abajo en el Anexo podreis encontrar el esquema electrico detallado.
 
 ![ESQUEMA](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Layout_Reverb_and_Tremolo_Deleted_Plus_Mid.png)
 
