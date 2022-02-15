@@ -57,3 +57,19 @@ Le pusimos Tolex blanco por encima mediante cola para darle un acabado mas profe
 (Foto)
 
 ## Iluminacion y arduino
+
+Para la iluminacion usamos un arduino nano y una tira de leds WS2812D. Para llevar a cabo el programa se uso la libreria  "FastLed" y lo que queriamos era programarlo con tres modos de iluminacion, los cuales serian escogibles mediante un selectro, a modo de potenciometro para que no desntonara con lo demas del frontal. Los tres modos que queriamos eran el recorrido de la tira de led cambiando de color, amarillo estatico pare que tambien fuera encencdiendo progresivamente la tira y por ultimo mediante una entrada analogica la cual sale del voltimetro y mediante la cual la tira de leds iluminaria segun la señal que produzca la musica. Aqui dejaremos el programa (Programa).
+
+(FOTO)
+
+ Otra cosa que hay que tener en cuenta es el consumo dependiendo del numero de leds que quieras iluminar en nuestro caso eran 86 y necesitaban una intensidad de 1,50 A y el arduino no es capaz de suministrarnos esa cantidad de amperios por lo que la alimentacion de estos salia del transformador, lo cual nos hizo tener que fabricar una PCB para ello. Dado que el transformador daba corriente alterna tuvimos que hacer un rectificador para que la corriente fuera continua y solucionar el problema de la alimentacion.
+ 
+ (FOTO) y diseño pcb
+ 
+La libreria "FastLed" es algo compleja cabe destacar ya que hace falta conocer muy bien los comandos de esta y entender como funcionaba nuestra tira de leds ya que no era una tira normal de rgb si no que esta funcionaba mediante la modulación de pulsos, lo cual fue una ventaja a la hora de hacer los efectos de iluminacion ya que pudimos coneguir efectos que con una tira normal seria imposible.
+
+(Video) 
+
+El enlace de la libreria por si alguien desea usarla: https://www.arduino.cc/reference/en/libraries/fastled/
+Información sobre sus comandos basicos: https://blog.claytonk.com/2019/10/16/working-with-fastled-library/
+
