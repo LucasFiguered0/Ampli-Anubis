@@ -20,6 +20,11 @@ Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https:
 
 ![https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png](https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png) ![https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png](https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png) ![https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png](https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png)
 
+
+## Organización
+
+(FOTO)
+
 ## Historia del amplificador
 
 Lee De Forest inventó el triodo a principios del siglo XX, que estaba compuesto por una rejilla de platino, ánodo y cátodo. Todo esto estaba encerrado en una especie de bombilla parcialmente vacía.Gracias a este invento, Lee De Forest es considerado el padre de la electrónica. A partir de entonces nacieron las válvulas al vacío de triodo, que eran lo mismo básicamente, pero dentro de la bombilla no había nada de aire, ni mucho menos algún tipo de gas. Esto hacía que el filamento o cátodo no se quemara rápidamente.
