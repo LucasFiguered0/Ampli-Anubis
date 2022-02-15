@@ -110,5 +110,5 @@ En la organización del proyecto utilizamos la plataforma ODOO para completar di
 ![https://user-images.githubusercontent.com/97434114/151759958-cc26b0ef-8a08-4175-b48d-4161f2d08039.jpg](https://user-images.githubusercontent.com/97434114/151759958-cc26b0ef-8a08-4175-b48d-4161f2d08039.jpg)
 
 ## LISTA DE MATERIALES A UTLIZAR 
-
-!(https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Layout_Reverb_and_Tremolo_Deleted%20BOM.png)
+#
+![BOM](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Layout_Reverb_and_Tremolo_Deleted%20BOM.png)
