@@ -10,11 +10,12 @@ Así incentivemos a más gente a animarse a realizarlo.
 
 ![ESQUEMA](https://robrobinette.com/images/Guitar/AA1164/AA1164_Princeton_Reverb_Layout_Reverb_and_Tremolo_Deleted_small.png)
 
-##Teoría del proyecto
+##Teoría del proyecto##
 
 Válvulas de vacío: Es un componente electrónico utilizado para amplificar, conmutar, o modificar una señal eléctrica mediante el control del movimiento de los electrones (Tensión (V)) en un espacio vacío a muy baja presión, o en presencia de gases.
 
 Todos los triodos tienen un electrodo (cátodo) calentado por un filamento, que libera electrones, y un electrodo de placa de metal plana (ánodo) que los atrae, con una rejilla que consta de una pantalla de hilos que controlan la corriente.
+
 
 
 Se deja constancia que los diseños y esquemas fueron proveídos por Rob Robinette
