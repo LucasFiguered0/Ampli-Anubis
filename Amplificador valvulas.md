@@ -79,12 +79,15 @@ Para llevar acabo este proyecto en vez de una PCB tradicional, la cual cual gene
 
 ![pcb](https://user-images.githubusercontent.com/97515204/154313299-4888e479-0d0b-4e3d-ac4c-a462c617fd00.png)
 
-En cuanto a conexiones nos basamos en los esquemas de la pagina )https://robrobinette.com/AA1164_Princeton_Reverb_With_Reverb_and_Tremolo_Deleted.htm) y solo le añadimos unos elemntos de protección para que no se dañara nada en caso de que llegara a haber un problema.Tambien se incluyo un pequeño circuito bias y tambien un voltimetro, el cual iria en el frontal y le daria un toque mas personalizado al amplificador.
+En cuanto a conexiones nos basamos en los esquemas de la pagina (https://robrobinette.com/AA1164_Princeton_Reverb_With_Reverb_and_Tremolo_Deleted.htm) y solo le añadimos unos elementos de protección para que no se dañara nada en caso de que llegara a haber un problema.Tambien se incluyo un pequeño circuito bias y tambien un voltimetro, el cual iria en el frontal y le daria un toque mas personalizado al amplificador.
 
 ![image](https://user-images.githubusercontent.com/97515204/154313755-d11e36e5-e16e-4b52-9a33-36b9b989e67d.png)
 
 Primero lo simulamos en el software de proteus para ver que funcionaba y ver que mediads debiamos medir y que parametros deberian darnos.
 
+![Captura](https://user-images.githubusercontent.com/97515204/154327889-c29f6eb5-84b9-408a-8869-6d747b605c44.PNG)
+
+El esquema en proteus:
 
 El esquema se divide en tres partes que serian preamplificador, bias (phase inverter), y etapa de potencia.
 
@@ -101,6 +104,26 @@ Para tomar valores y hacer pruebas hay que hacerlo con mucho cuidado y descargar
 
 ![IMG_20220112_133519](https://user-images.githubusercontent.com/97515204/154327481-6760f94b-3de9-4f9a-98c5-a81092fc4f25.jpg)
 
-# Anexos
+
+# Diseño de metacrilato y otros
+
+Para el panel frontal decidimos hacer un metacrilato para que se pudiera la electronica de dentro y poder apreciarla bien. Aparte de que este fuera iluminado por la tira de leds haciendo asi que nuestro panel se convirtiera en un espectaculo visual. Esto sumado a nuestro logo y nombre de la empresa iluminados daban un toque carateristico a este. Para ello se realizaron unos planos primero en papel y a posteriori en un programa llamado ilustrator.
+
+![panel](https://user-images.githubusercontent.com/97515204/154329113-6d06ba88-21b7-4576-b37d-b02baa565fe8.png)
+
+Archivos del panel: [ANUBIS_LASER.zip](https://github.com/LucasFiguered0/Ampli-Anubis/files/8082418/ANUBIS_LASER.zip)
+
+Gracias a la cooperación por parte del laboratorio ciudadno de la tabakalera, situado en San Sebastian, y la amable gente que alli trabaja, nos permitierón usar su cortadora laser para hacer este panel, por lo cual les estamos agradecidos.
+
+![image](https://user-images.githubusercontent.com/97515204/154329680-9ab70fbe-8435-4de8-8ced-1f24d688ccfa.png)
+
+Y este fue el resultado:
+
+![IMG-20220204-WA0038](https://user-images.githubusercontent.com/97515204/154329778-12daeda1-7d0c-4de5-89e4-2086bf55ddc6.jpg)
+
+Y aqui con los leds:
+![1645001313416](https://user-images.githubusercontent.com/97515204/154329920-13e13770-fd53-41a2-9577-942279f56018.jpg)![1645001313463](https://user-images.githubusercontent.com/97515204/154329930-1611b894-a785-4de3-8fdf-a14a2f2ecff0.jpg)![1645001313435](https://user-images.githubusercontent.com/97515204/154329942-4d34ed7a-6024-4df6-9d57-91d200776954.jpg)
+
+# Adicional
 
 (FOTOS ESQUEMAS)
