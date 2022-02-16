@@ -18,7 +18,7 @@ Todos los triodos tienen un electrodo (cátodo) calentado por un filamento, que 
 
 Nuestras valvulas:
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/97515204/154332788-3f597ac5-f5df-4910-8df7-df8b8731840e.png)
 
 Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador).
 
