@@ -104,6 +104,9 @@ Para tomar valores y hacer pruebas hay que hacerlo con mucho cuidado y descargar
 
 ![IMG_20220112_133519](https://user-images.githubusercontent.com/97515204/154327481-6760f94b-3de9-4f9a-98c5-a81092fc4f25.jpg)
 
+Como quedo:
+
+![IMG20220201124207](https://user-images.githubusercontent.com/97515204/154331707-d9e6a9f7-2e3d-4c4e-8282-50574969edf1.jpg)
 
 # Diseño de metacrilato y otros
 
@@ -137,3 +140,8 @@ Como información adicional nos paseamos por un par de tiendas y vimos los ampli
 ![mercado 1](https://user-images.githubuserc![mercado 2](https://user-images.githubusercontent.com/97515204/154331454-0f643267-df60-4d9b-ac25-6a93c81b7f85.png)
 ontent.com/97515204/154331448-01bff7d7-f8de-4793-8c07-93e86debcac8.png)
 
+# Agradecimientos
+
+Al centro CIFP Don Bosco LHII ![image](https://user-images.githubusercontent.com/97515204/154331865-bd22e8a6-e171-4c61-a953-c1cdaa28a533.png)
+
+Y a tabakalera (centro cultural de San Sebastián) ![image](https://user-images.githubusercontent.com/97515204/154332004-d8a36ece-a6a7-430c-bd0c-e7531f89ad65.png)
