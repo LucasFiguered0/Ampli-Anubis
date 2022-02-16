@@ -124,6 +124,16 @@ Y este fue el resultado:
 Y aqui con los leds:
 ![1645001313416](https://user-images.githubusercontent.com/97515204/154329920-13e13770-fd53-41a2-9577-942279f56018.jpg)![1645001313463](https://user-images.githubusercontent.com/97515204/154329930-1611b894-a785-4de3-8fdf-a14a2f2ecff0.jpg)![1645001313435](https://user-images.githubusercontent.com/97515204/154329942-4d34ed7a-6024-4df6-9d57-91d200776954.jpg)
 
-# Adicional
+### 3D
+Aparte de esto tambien hubo que diseñar unos pequeños extensores para los potenciometros en la impresora 3D ya que queriamos que el metacrilato fuera bastante gordo y nos dificutaba ponerles las perillas. Y tambien se diseño un marco para el VU metro de la parte frontal.
 
-(FOTOS ESQUEMAS)
+![pieza 1](https://user-images.githubusercontent.com/97515204/154330788-ddd2833a-82aa-4dc0-8951-dd3477246dde.png)![pieza 2](https://user-images.githubusercontent.com/97515204/154330801-05f4de92-c69e-4cb7-ba80-a8e02063fada.png)
+
+Links de las piezas: https://www.tinkercad.com/things/9zDmkA1Fscy-bodacious-habbi / https://www.tinkercad.com/things/1bL4a2ZFOgd-copy-of-glorious-migelo
+
+# Adicional
+Como información adicional nos paseamos por un par de tiendas y vimos los amplificadores que hay actualmente en mercado.
+
+![mercado 1](https://user-images.githubuserc![mercado 2](https://user-images.githubusercontent.com/97515204/154331454-0f643267-df60-4d9b-ac25-6a93c81b7f85.png)
+ontent.com/97515204/154331448-01bff7d7-f8de-4793-8c07-93e86debcac8.png)
+
