@@ -61,6 +61,8 @@ Para la iluminacion usamos un arduino nano y una tira de leds WS2812D. Para llev
 ![leds caution](https://user-images.githubusercontent.com/97515204/154223725-a5ea14a9-2d71-419f-89d5-72f077e46b51.png)
 
 Otra cosa que hay que tener en cuenta es el consumo dependiendo del numero de leds que quieras iluminar en nuestro caso eran 86 y necesitaban una intensidad de 1,50 A y el arduino no es capaz de suministrarnos esa cantidad de amperios por lo que la alimentacion de estos salia del transformador, lo cual nos hizo tener que fabricar una PCB para ello. Dado que el transformador daba corriente alterna tuvimos que hacer un rectificador para que la corriente fuera continua y solucionar el problema de la alimentacion.
+
+PCB por si quereis descargarla: [ARDUINO NANO ANUBIS pcb.zip](https://github.com/LucasFiguered0/Ampli-Anubis/files/8078435/ARDUINO.NANO.ANUBIS.pcb.zip)
  
  ![pcb arduino](https://user-images.githubusercontent.com/97515204/154232420-ee92e69a-35bb-42e4-97c5-e3be0fbe3e01.png)
 
