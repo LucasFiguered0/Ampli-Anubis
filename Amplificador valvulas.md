@@ -71,6 +71,7 @@ La libreria "FastLed" es algo compleja cabe destacar ya que hace falta conocer m
 https://user-images.githubusercontent.com/97515204/154230511-33191aa3-4ab9-4255-a005-fa93bacf2575.mp4
 
 El enlace de la libreria por si alguien desea usarla: https://www.arduino.cc/reference/en/libraries/fastled/
+
 Información sobre sus comandos basicos: https://blog.claytonk.com/2019/10/16/working-with-fastled-library/
 
 ## Electronica
