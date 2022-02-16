@@ -3,7 +3,7 @@
 ## Idea
 Nuestra idea era montar un amplificador de guitarra el cual funcionaba mediante valvulas de vacio, aparte tambien le quisimos añadir iluminacion rgb mediante arduino. El chasis y el cajon tambien decidimos hacerlo desde cero. Y con esa idea nacio nuestro proyecto.
 
-![Idea](https://user-images.githubusercontent.com/97515204/154219532-fb0c9892-cd3e-4c15-b03e-b8066938ab43.png)
+![Idea original](https://user-images.githubusercontent.com/97515204/154220001-f0a007a7-6bc7-454e-b5c5-48c0bd0ecfeb.png)
 
 Con esa idea en mente decidimos documentarnos sobre proyectos parecidos y entonces dimos con una pagina web (enlace pagina), la cual nos suministro unos planos para el montaje de este. Abajo en el Anexo podreis encontrar el esquema electrico detallado.
 
@@ -14,7 +14,7 @@ Válvulas de vacío: Es un componente electrónico utilizado para amplificar, co
 
 Todos los triodos tienen un electrodo (cátodo) calentado por un filamento, que libera electrones, y un electrodo de placa de metal plana (ánodo) que los atrae, con una rejilla que consta de una pantalla de hilos que controlan la corriente.
 
-(FOTO)
+![valvulas](https://user-images.githubusercontent.com/97515204/154220217-7ac01440-8a7f-4314-9ebd-af12b6674e71.png)
 
 Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador).
 
