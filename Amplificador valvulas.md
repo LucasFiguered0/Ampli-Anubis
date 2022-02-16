@@ -23,7 +23,8 @@ Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https:
 
 ## Organización
 
-(FOTO)
+![organigrama](https://user-images.githubusercontent.com/97515204/154220577-76e3d652-d051-464b-873a-2d6b709376a7.png)
+
 
 ## Historia del amplificador
 
@@ -31,7 +32,7 @@ Lee De Forest inventó el triodo a principios del siglo XX, que estaba compuesto
 Esta creación permitía que con una tensión débil se creará mayor fuerza de corriente para los equipos de audio. Es así como los triodos al vacío comenzaron a usarse en amplificadores de alta calidad, gramófonos, televisores, etc.
 El triodo fue patentado por el mismo Lee en 1906
 
-(FOTO)
+![Lee_de_Forest_american_inventor](https://user-images.githubusercontent.com/97515204/154220919-46042945-1d1a-451e-8b89-5765f7220bad.png)
 
 En caso de mayor documentacion sobre la historia visitar: https://unaguitarrafeliz.es/la-evolucion-del-amplificador-del-triodo-a-los-transistores/
 
@@ -39,11 +40,11 @@ En caso de mayor documentacion sobre la historia visitar: https://unaguitarrafel
 
 EN cuanto al chasis y el cajon buscamos unas medidas estandar entre distintos amplificadores y decidimos que seria un amplificador de 45cm x 20cm.
 
-(FOTO)
+![medias](https://user-images.githubusercontent.com/97515204/154221080-c41a681f-d9d2-4fc6-9ee0-54a1211ad0cb.png)
 
 Una vez decididas las medias nos dispusimos a hacer el chasis que seria donde se amarrara toda la electronica del proyecto, decidimos hacerlo de aluminio ya que es un metal muy facil de moldear. Le asignamos las posiciones a los diferentes elementos que componenen al amplificador y hicimos los corte y agujeros necesarios.
 
-(FOTO)
+![chasis](https://user-images.githubusercontent.com/97515204/154221529-5521f71d-9ec0-42b1-9f73-b532b6f39e1f.png)
 
 Cuando ya teniamos todos los agujeros doblamos los frontales y en colaboracion con el departamento de chapa y pintura de don bosco pudimos pintar el chasis de un color negro con acabado mate dandole asi personalidad al chasis y resaltando los componentes visibles.
 
