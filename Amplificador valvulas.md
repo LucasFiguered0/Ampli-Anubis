@@ -16,6 +16,10 @@ Todos los triodos tienen un electrodo (cátodo) calentado por un filamento, que 
 
 ![valvulas](https://user-images.githubusercontent.com/97515204/154220217-7ac01440-8a7f-4314-9ebd-af12b6674e71.png)
 
+Nuestras valvulas:
+
+![Uploading image.png…]()
+
 Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https://www.tinkercad.com/things/5hVMJ6lUgMq-amplificador).
 
 ![https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png](https://user-images.githubusercontent.com/97515204/152945049-f07eacdb-eddd-419d-befb-653076bde2b1.png) ![https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png](https://user-images.githubusercontent.com/97515204/152945135-faadd51f-24a0-4e16-9ea6-62c3194975a2.png) ![https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png](https://user-images.githubusercontent.com/97515204/152945222-6698de1c-33ca-4107-b39d-c9af0cdb462f.png)
@@ -25,6 +29,9 @@ Una vez tuvimos todo claro procedimos a realizar un modelo 3D de la idea (https:
 
 ![organigrama](https://user-images.githubusercontent.com/97515204/154220577-76e3d652-d051-464b-873a-2d6b709376a7.png)
 
+Tambien se uso la plataforma ODOO para organizar todo bien
+
+![image](https://user-images.githubusercontent.com/97515204/154332485-e003f4f8-7c7c-4ec6-950c-0ef2bf1f966c.png)
 
 ## Historia del amplificador
 
@@ -35,6 +42,10 @@ El triodo fue patentado por el mismo Lee en 1906
 ![Lee_de_Forest_american_inventor](https://user-images.githubusercontent.com/97515204/154220919-46042945-1d1a-451e-8b89-5765f7220bad.png)
 
 En caso de mayor documentacion sobre la historia visitar: https://unaguitarrafeliz.es/la-evolucion-del-amplificador-del-triodo-a-los-transistores/
+
+## Materiales
+
+![image](https://user-images.githubusercontent.com/97515204/154332560-d178632c-a6b1-4ea3-bb72-d41dc8abd244.png)
 
 ## Chasis y cajon de madera
 
