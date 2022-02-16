@@ -142,6 +142,6 @@ ontent.com/97515204/154331448-01bff7d7-f8de-4793-8c07-93e86debcac8.png)
 
 # Agradecimientos
 
-Al centro CIFP Don Bosco LHII ![image](https://user-images.githubusercontent.com/97515204/154331865-bd22e8a6-e171-4c61-a953-c1cdaa28a533.png)
+Al centro CIFP Don Bosco LHII   ![image](https://user-images.githubusercontent.com/97515204/154331865-bd22e8a6-e171-4c61-a953-c1cdaa28a533.png)
 
-Y a tabakalera (centro cultural de San Sebastián) ![image](https://user-images.githubusercontent.com/97515204/154332004-d8a36ece-a6a7-430c-bd0c-e7531f89ad65.png)
+Y a tabakalera (centro cultural de San Sebastián)   ![image](https://user-images.githubusercontent.com/97515204/154332004-d8a36ece-a6a7-430c-bd0c-e7531f89ad65.png)
