@@ -77,19 +77,29 @@ Información sobre sus comandos basicos: https://blog.claytonk.com/2019/10/16/wo
 ## Electronica
 Para llevar acabo este proyecto en vez de una PCB tradicional, la cual cual genera ruidos, decidimos unas una eyelet board de fibra de vidrio. A la cual le hicimos los agujeros a disposicion de donde iban los componentes y les pusimos unos hojales los cuales con una punta y un martillo amarramos bien a esta. 
 
-(FOTO)
+![pcb](https://user-images.githubusercontent.com/97515204/154313299-4888e479-0d0b-4e3d-ac4c-a462c617fd00.png)
 
-En cuanto a conexiones nos basamos en estos esquemas de aqui abajo y solo le añadimos unos elemntos de protección para que no se dañara nada en caso de que llegara a haber un problema.Tambien se incluyo un pequeño circuito bias y tambien un voltimetro, el cual iria en el frontal y le daria un toque mas personalizado al amplificador.
+En cuanto a conexiones nos basamos en los esquemas de la pagina )https://robrobinette.com/AA1164_Princeton_Reverb_With_Reverb_and_Tremolo_Deleted.htm) y solo le añadimos unos elemntos de protección para que no se dañara nada en caso de que llegara a haber un problema.Tambien se incluyo un pequeño circuito bias y tambien un voltimetro, el cual iria en el frontal y le daria un toque mas personalizado al amplificador.
 
-(Foto)
+![image](https://user-images.githubusercontent.com/97515204/154313755-d11e36e5-e16e-4b52-9a33-36b9b989e67d.png)
 
-El esquema se divide en tres partes que serian preamplificador, driver (phase inverter), y estapa de potencia.
+Primero lo simulamos en el software de proteus para ver que funcionaba y ver que mediads debiamos medir y que parametros deberian darnos.
 
-(FOTO), (FOTO), (FOTO)
+
+El esquema se divide en tres partes que serian preamplificador, bias (phase inverter), y etapa de potencia.
+
+ ### Preamplificador
+ ![pcb](https://user-images.githubusercontent.com/97515204/154314023-06ab74ec-adc7-4ff4-867c-f8b91f0a28b4.png)
+
+ ### Bias
+![pcb](https://user-images.githubusercontent.com/97515204/154314301-525f4e9e-62cf-4184-8ca3-34eaa7b62e5c.png)
+
+ ### Etapa de potencia
+ ![pcb](https://user-images.githubusercontent.com/97515204/154314608-4c80ed10-d65a-4d86-86c4-196653a750fa.png)
 
 Para tomar valores y hacer pruebas hay que hacerlo con mucho cuidado y descargar la bateria de condensaores, ya que este amplificador trabaja con 420 V de tensión lo cual puede producir un gran problema,  en nuestro caso disponiamos de una herramienta artesanal creada por nuestro tutor del proyecto.
 
-(FOTO)
+![IMG_20220112_133519](https://user-images.githubusercontent.com/97515204/154327481-6760f94b-3de9-4f9a-98c5-a81092fc4f25.jpg)
 
 # Anexos
 
