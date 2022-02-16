@@ -3,7 +3,7 @@
 ## Idea
 Nuestra idea era montar un amplificador de guitarra el cual funcionaba mediante valvulas de vacio, aparte tambien le quisimos añadir iluminacion rgb mediante arduino. El chasis y el cajon tambien decidimos hacerlo desde cero. Y con esa idea nacio nuestro proyecto.
 
-(FOTO)
+![Idea](https://user-images.githubusercontent.com/97515204/154219532-fb0c9892-cd3e-4c15-b03e-b8066938ab43.png)
 
 Con esa idea en mente decidimos documentarnos sobre proyectos parecidos y entonces dimos con una pagina web (enlace pagina), la cual nos suministro unos planos para el montaje de este. Abajo en el Anexo podreis encontrar el esquema electrico detallado.
 
