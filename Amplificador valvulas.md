@@ -64,9 +64,9 @@ Otra cosa que hay que tener en cuenta es el consumo dependiendo del numero de le
  
  (FOTO) y diseño pcb
  
-La libreria "FastLed" es algo compleja cabe destacar ya que hace falta conocer muy bien los comandos de esta y entender como funcionaba nuestra tira de leds ya que no era una tira normal de rgb si no que esta funcionaba mediante la modulación de pulsos, lo cual fue una ventaja a la hora de hacer los efectos de iluminacion ya que pudimos coneguir efectos que con una tira normal seria imposible.
+La libreria "FastLed" es algo compleja cabe destacar ya que hace falta conocer muy bien los comandos de esta y entender como funcionaba nuestra tira de leds ya que no era una tira normal de rgb si no que esta funcionaba mediante la modulación de pulsos, lo cual fue una ventaja a la hora de hacer los efectos de iluminacion ya que pudimos coneguir efectos que con una tira normal seria imposible. 
 
-(Video) 
+https://user-images.githubusercontent.com/97515204/154227228-91253754-f7ac-4751-8bb2-2d987d09e82f.mp4
 
 El enlace de la libreria por si alguien desea usarla: https://www.arduino.cc/reference/en/libraries/fastled/
 Información sobre sus comandos basicos: https://blog.claytonk.com/2019/10/16/working-with-fastled-library/
